@@ -1,0 +1,34 @@
+<!--pages/mine/mine.wxml-->
+<view class="container">
+    <view class="page__hd">
+        <view class="page__hd-tp">编辑</view>
+        <view class="page__hd-md center">
+            <image src="http://img5.imgtn.bdimg.com/it/u=1265715371,717241728&fm=26&gp=0.jpg" />
+        </view>
+        <view class="page-username center">挽风</view>
+        <view class="page__hd-bt page-flex">
+            <view class="page-bt-rt">
+                <view class="page-rt-lt ">
+                    <view class="page-rt-numbers">200</view>
+                    <view class="page-rt-items">银两</view>
+                </view>
+            </view>
+        </view>
+    </view>
+    <view class="page__bd">
+        <view class="page__bd-items page-flex" bindtap="tomyNews">
+            <view class="page-items-lt">
+                <image src="http://img5.imgtn.bdimg.com/it/u=3619816821,2537697936&fm=26&gp=0.jpg" />
+            </view>
+            <view class="page-items-md">我的消息</view>
+            <view class="page-items-others"></view>
+        </view>
+        <view class="page__bd-items page-flex">
+            <view class="page-items-lt">
+                <image src="http://img1.imgtn.bdimg.com/it/u=1746154773,2872641314&fm=26&gp=0.jpg" />
+            </view>
+            <view class="page-items-md">我的英雄论</view>
+            <view class="page-items-others">写书评</view>
+        </view>
+    </view>
+</view>
