@@ -13,7 +13,7 @@
 
 
 #运行截图
-<image src="1.png"><image/>
-<image src="2.png"><image/>
-<image src="3.png"><image/>
-<image src="4.png"><image/>
+<image src="1.png" width="375"><image/>
+<image src="2.png" width="375"><image/>
+<image src="3.png" width="375"><image/>
+<image src="4.png" width="375"><image/>
